@@ -22,6 +22,3 @@ Clonar el repositorio
 * Realizar el sorteo con un solo clic.
 * Disfrutar del juego y descubrir el amigo secreto.
 
-
-## Producción
-https://dancing-biscotti-dcc37d.netlify.app/
